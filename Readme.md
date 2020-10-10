@@ -6,5 +6,5 @@ to use this
 1. Make sure you have node.js installed
 2. Download the files
 3. run "npm install" on the folder to install dependencies needed
-4. run "npm run" to run the scraper
+4. run "node solution.js" to run the scraper
 5. check the result on solution.json file
