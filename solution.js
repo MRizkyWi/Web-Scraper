@@ -43,10 +43,11 @@ rp(url)
                     // related articles
                     var relatedArticles = []
                     $('h4:contains("Artikel Terkait")').next().find('li').map((i, relArt) => {
-                        var link = $(relArt).find('a').attr('href')
+                        var backlink = $(relArt).find('a').attr('href')
+                        var fulllink = cermati.concat(backlink)
                         var titleArticle = $(relArt).find('h5').text().trim()
                         var relatedArticle = {
-                            "url": link,
+                            "url": fulllink,
                             "title": titleArticle,
                         }
                         relatedArticles.push(relatedArticle)
