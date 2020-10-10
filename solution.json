@@ -1,9 +1,10 @@
 {
     "articles": [{
-        "url": "https://www.cermati.com/artikel/ngeri-penipuan-online-berkedok-unggah-foto-selfie-dan-ktp-kenali-7-cirinya",
-        "title": "Ngeri Penipuan Online Berkedok Unggah Foto Selfie dan KTP, Kenali 7 Cirinya",
-        "author": "Fiki Ariyanti",
-        "postingDate": "8 Oktober 2020",
+        "url": "https://www.cermati.com/artikel/tindak-kejahatan-phishing-makin-marak-ini-cara-menghindarinya",
+        "title": "Tindak Kejahatan Phishing Makin Marak, Ini Cara Menghindarinya",
+        "author": "Cermati.com",
+        "category": "Perbankan",
+        "postingDate": "23 September 2020",
         "relatedArticles": [{
             "url": "https://www.cermati.com/artikel/waspadai-uang-hilang-di-atm-lakukan-ini-hindari-penipuan-skimming",
             "title": "Waspadai Uang Hilang di ATM, Lakukan Ini Hindari Penipuan Skimming"
@@ -24,6 +25,7 @@
         "url": "https://www.cermati.com/artikel/waduh-spear-phishing-merajalela-ini-lho-3-modus-phishing-dan-tips-menghindarinya",
         "title": "Waduh, Spear Phishing Merajalela! Ini Lho 3 Modus Phishing dan Tips Menghindarinya",
         "author": "Ratna Wahyuningsih",
+        "category": "Perbankan",
         "postingDate": "2 Oktober 2020",
         "relatedArticles": [{
             "url": "https://www.cermati.com/artikel/awas-dibobol-hacker-ini-cara-cerdas-jaga-keamanan-akun-paylater",
@@ -42,51 +44,10 @@
             "title": "6 Alasan Mengapa Kamu Tidak Boleh Meminjamkan KTP kepada Teman"
         }]
     }, {
-        "url": "https://www.cermati.com/artikel/tindak-kejahatan-phishing-makin-marak-ini-cara-menghindarinya",
-        "title": "Tindak Kejahatan Phishing Makin Marak, Ini Cara Menghindarinya",
-        "author": "Cermati.com",
-        "postingDate": "23 September 2020",
-        "relatedArticles": [{
-            "url": "https://www.cermati.com/artikel/waspadai-uang-hilang-di-atm-lakukan-ini-hindari-penipuan-skimming",
-            "title": "Waspadai Uang Hilang di ATM, Lakukan Ini Hindari Penipuan Skimming"
-        }, {
-            "url": "https://www.cermati.com/artikel/awas-dibobol-hacker-ini-cara-cerdas-jaga-keamanan-akun-paylater",
-            "title": "Awas Dibobol Hacker! Ini Cara Cerdas Jaga Keamanan Akun Paylater"
-        }, {
-            "url": "https://www.cermati.com/artikel/waduh-rekening-dibobol-kembali-marak-begini-6-cara-jaga-kode-otp",
-            "title": "Waduh, Rekening Dibobol Kembali Marak. Begini 6 Cara Jaga Kode OTP"
-        }, {
-            "url": "https://www.cermati.com/artikel/nomor-pin-anda-tidak-ingin-dibobol-perhatikan-hal-ini",
-            "title": "Nomor PIN Anda Tidak Ingin Dibobol? Perhatikan Hal Ini"
-        }, {
-            "url": "https://www.cermati.com/artikel/lagi-hits-ini-5-fakta-uang-rp75-ribu-edisi-hut-ri-75-tahun-dan-cara-tukarnya",
-            "title": "Lagi Hits, Ini 5 Fakta Uang Rp75 Ribu Edisi HUT RI 75 Tahun dan Cara Tukarnya"
-        }]
-    }, {
-        "url": "https://www.cermati.com/artikel/awas-dibobol-hacker-ini-cara-cerdas-jaga-keamanan-akun-paylater",
-        "title": "Awas Dibobol Hacker! Ini Cara Cerdas Jaga Keamanan Akun Paylater",
-        "author": "Fiki Ariyanti",
-        "postingDate": "8 Oktober 2020",
-        "relatedArticles": [{
-            "url": "https://www.cermati.com/artikel/waspadai-uang-hilang-di-atm-lakukan-ini-hindari-penipuan-skimming",
-            "title": "Waspadai Uang Hilang di ATM, Lakukan Ini Hindari Penipuan Skimming"
-        }, {
-            "url": "https://www.cermati.com/artikel/waduh-rekening-dibobol-kembali-marak-begini-6-cara-jaga-kode-otp",
-            "title": "Waduh, Rekening Dibobol Kembali Marak. Begini 6 Cara Jaga Kode OTP"
-        }, {
-            "url": "https://www.cermati.com/artikel/nomor-pin-anda-tidak-ingin-dibobol-perhatikan-hal-ini",
-            "title": "Nomor PIN Anda Tidak Ingin Dibobol? Perhatikan Hal Ini"
-        }, {
-            "url": "https://www.cermati.com/artikel/lagi-hits-ini-5-fakta-uang-rp75-ribu-edisi-hut-ri-75-tahun-dan-cara-tukarnya",
-            "title": "Lagi Hits, Ini 5 Fakta Uang Rp75 Ribu Edisi HUT RI 75 Tahun dan Cara Tukarnya"
-        }, {
-            "url": "https://www.cermati.com/artikel/gonta-ganti-nomor-hp-bawa-petaka-m-banking-dibobol-rekening-jebol",
-            "title": "Gonta-Ganti Nomor HP Bawa Petaka: M-Banking Dibobol, Rekening Jebol"
-        }]
-    }, {
         "url": "https://www.cermati.com/artikel/waspadai-6-modus-penipuan-minta-data-transaksi-dan-info-pembayaran-kartu-kredit",
         "title": "Waspadai 6 Modus Penipuan Minta Data Transaksi dan Info Pembayaran kartu Kredit",
         "author": "Siti Hadijah",
+        "category": "Kartu Kredit",
         "postingDate": "9 Oktober 2020",
         "relatedArticles": [{
             "url": "https://www.cermati.com/artikel/waspadai-uang-hilang-di-atm-lakukan-ini-hindari-penipuan-skimming",
@@ -108,6 +69,7 @@
         "url": "https://www.cermati.com/artikel/mau-pemasukan-tambahan-dengan-jualan-pulsa-begini-5-tips-biar-untung",
         "title": "Mau Pemasukan Tambahan dengan Jualan Pulsa? Begini 5 Tips Biar Untung",
         "author": "Aufi Ramadhania Pasha",
+        "category": "Tips Bisnis",
         "postingDate": "9 Oktober 2020",
         "relatedArticles": [{
             "url": "https://www.cermati.com/artikel/pengusaha-wajib-tahu-pola-pikir-seperti-ini-paling-dibenci-investor",
@@ -129,6 +91,7 @@
         "url": "https://www.cermati.com/artikel/pengusaha-wajib-tahu-pola-pikir-seperti-ini-paling-dibenci-investor",
         "title": "Pengusaha Wajib Tahu, Pola Pikir Seperti Ini Paling Dibenci Investor",
         "author": "Fiki Ariyanti",
+        "category": "Tips Bisnis",
         "postingDate": "9 Oktober 2020",
         "relatedArticles": [{
             "url": "https://www.cermati.com/artikel/mau-pemasukan-tambahan-dengan-jualan-pulsa-begini-5-tips-biar-untung",
@@ -147,25 +110,121 @@
             "title": "Faktor-Faktor yang Berpengaruh pada Efektivitas Iklan Internet"
         }]
     }, {
+        "url": "https://www.cermati.com/artikel/awas-dibobol-hacker-ini-cara-cerdas-jaga-keamanan-akun-paylater",
+        "title": "Awas Dibobol Hacker! Ini Cara Cerdas Jaga Keamanan Akun Paylater",
+        "author": "Fiki Ariyanti",
+        "category": "Perbankan",
+        "postingDate": "8 Oktober 2020",
+        "relatedArticles": [{
+            "url": "https://www.cermati.com/artikel/waspadai-uang-hilang-di-atm-lakukan-ini-hindari-penipuan-skimming",
+            "title": "Waspadai Uang Hilang di ATM, Lakukan Ini Hindari Penipuan Skimming"
+        }, {
+            "url": "https://www.cermati.com/artikel/waduh-rekening-dibobol-kembali-marak-begini-6-cara-jaga-kode-otp",
+            "title": "Waduh, Rekening Dibobol Kembali Marak. Begini 6 Cara Jaga Kode OTP"
+        }, {
+            "url": "https://www.cermati.com/artikel/nomor-pin-anda-tidak-ingin-dibobol-perhatikan-hal-ini",
+            "title": "Nomor PIN Anda Tidak Ingin Dibobol? Perhatikan Hal Ini"
+        }, {
+            "url": "https://www.cermati.com/artikel/lagi-hits-ini-5-fakta-uang-rp75-ribu-edisi-hut-ri-75-tahun-dan-cara-tukarnya",
+            "title": "Lagi Hits, Ini 5 Fakta Uang Rp75 Ribu Edisi HUT RI 75 Tahun dan Cara Tukarnya"
+        }, {
+            "url": "https://www.cermati.com/artikel/gonta-ganti-nomor-hp-bawa-petaka-m-banking-dibobol-rekening-jebol",
+            "title": "Gonta-Ganti Nomor HP Bawa Petaka: M-Banking Dibobol, Rekening Jebol"
+        }]
+    }, {
+        "url": "https://www.cermati.com/artikel/ngeri-penipuan-online-berkedok-unggah-foto-selfie-dan-ktp-kenali-7-cirinya",
+        "title": "Ngeri Penipuan Online Berkedok Unggah Foto Selfie dan KTP, Kenali 7 Cirinya",
+        "author": "Fiki Ariyanti",
+        "category": "Perbankan",
+        "postingDate": "8 Oktober 2020",
+        "relatedArticles": [{
+            "url": "https://www.cermati.com/artikel/waspadai-uang-hilang-di-atm-lakukan-ini-hindari-penipuan-skimming",
+            "title": "Waspadai Uang Hilang di ATM, Lakukan Ini Hindari Penipuan Skimming"
+        }, {
+            "url": "https://www.cermati.com/artikel/awas-dibobol-hacker-ini-cara-cerdas-jaga-keamanan-akun-paylater",
+            "title": "Awas Dibobol Hacker! Ini Cara Cerdas Jaga Keamanan Akun Paylater"
+        }, {
+            "url": "https://www.cermati.com/artikel/waduh-rekening-dibobol-kembali-marak-begini-6-cara-jaga-kode-otp",
+            "title": "Waduh, Rekening Dibobol Kembali Marak. Begini 6 Cara Jaga Kode OTP"
+        }, {
+            "url": "https://www.cermati.com/artikel/nomor-pin-anda-tidak-ingin-dibobol-perhatikan-hal-ini",
+            "title": "Nomor PIN Anda Tidak Ingin Dibobol? Perhatikan Hal Ini"
+        }, {
+            "url": "https://www.cermati.com/artikel/lagi-hits-ini-5-fakta-uang-rp75-ribu-edisi-hut-ri-75-tahun-dan-cara-tukarnya",
+            "title": "Lagi Hits, Ini 5 Fakta Uang Rp75 Ribu Edisi HUT RI 75 Tahun dan Cara Tukarnya"
+        }]
+    }, {
+        "url": "https://www.cermati.com/artikel/hindari-kesalahan-investasi-emas-ini-kalau-gak-mau-cuan-melayang",
+        "title": "Hindari Kesalahan Investasi Emas Ini Kalau Gak Mau Cuan Melayang",
+        "author": "Fiki Ariyanti",
+        "category": "Emas",
+        "postingDate": "8 Oktober 2020",
+        "relatedArticles": [{
+            "url": "https://www.cermati.com/artikel/mahasiswa-jajan-investasi-ini-biar-duit-beranak-pinak",
+            "title": "Mahasiswa, Jajan Investasi Ini Biar Duit \"Beranak Pinak\""
+        }, {
+            "url": "https://www.cermati.com/artikel/jangan-silau-harganya-ini-cara-mendeteksi-emas-kw-biar-gak-ketipu",
+            "title": "Jangan Silau Harganya, Ini Cara Mendeteksi Emas KW Biar Gak Ketipu"
+        }, {
+            "url": "https://www.cermati.com/artikel/ibu-rumah-tangga-mau-investasi-pakai-uang-belanja-begini-strateginya",
+            "title": "Ibu Rumah Tangga Mau Investasi Pakai Uang Belanja? Begini Strateginya"
+        }, {
+            "url": "https://www.cermati.com/artikel/minim-risiko-investasi-emas-menjadi-pilihan-jitu-menabung",
+            "title": "Minim Risiko, Investasi Emas Menjadi Pilihan Jitu Menabung"
+        }, {
+            "url": "https://www.cermati.com/artikel/lebih-untung-investasi-emas-atau-reksa-dana-ini-penjelasannya",
+            "title": "Lebih Untung Investasi Emas atau Reksa Dana? Ini Penjelasannya"
+        }]
+    }, {
+        "url": "https://www.cermati.com/artikel/tips-sederhana-supaya-terlihat-lebih-menarik-di-tempat-kerja",
+        "title": "Tips Sederhana Supaya Terlihat Lebih Menarik di Tempat Kerja",
+        "author": "Siti Hadijah",
+        "category": "Karir",
+        "postingDate": "9 Oktober 2020",
+        "relatedArticles": [{
+            "url": "https://www.cermati.com/artikel/pemimpin-wajib-tahu-begini-cara-menghadapi-konflik-internal-dalam-perusahaan",
+            "title": "Pemimpin Wajib Tahu! Begini Cara Menghadapi Konflik Internal dalam Perusahaan"
+        }, {
+            "url": "https://www.cermati.com/artikel/omnibus-law-uu-cipta-kerja-terbit-begini-tips-atur-uang-pekerja-agar-tak-pailit",
+            "title": "Omnibus Law UU Cipta Kerja Terbit, Begini Tips Atur Uang Pekerja agar Tak Pailit"
+        }, {
+            "url": "https://www.cermati.com/artikel/wahai-fresh-graduate-kamu-wajib-tahu-beda-cv-dan-resume-lamaran-kerja",
+            "title": "Wahai Fresh Graduate, Kamu Wajib Tahu Beda CV dan Resume Lamaran Kerja"
+        }, {
+            "url": "https://www.cermati.com/artikel/4-cara-mengetahui-standar-gaji-pekerjaan-yang-kamu-lamar",
+            "title": "4 Cara Mengetahui Standar Gaji Pekerjaan yang Kamu Lamar"
+        }, {
+            "url": "https://www.cermati.com/artikel/menjadi-sales-engineer-pengertian-dan-peluang-kerjanya",
+            "title": "Menjadi Sales Engineer: Pengertian dan Peluang Kerjanya"
+        }]
+    }, {
+        "url": "https://www.cermati.com/artikel/waspadai-uang-hilang-di-atm-lakukan-ini-hindari-penipuan-skimming",
+        "title": "Waspadai Uang Hilang di ATM, Lakukan Ini Hindari Penipuan Skimming",
+        "author": "Aufi Ramadhania Pasha",
+        "category": "Tips Keuangan",
+        "postingDate": "9 Oktober 2020",
+        "relatedArticles": [{
+            "url": "https://www.cermati.com/artikel/awas-dibobol-hacker-ini-cara-cerdas-jaga-keamanan-akun-paylater",
+            "title": "Awas Dibobol Hacker! Ini Cara Cerdas Jaga Keamanan Akun Paylater"
+        }, {
+            "url": "https://www.cermati.com/artikel/sebelum-buat-tabungan-bareng-pacar-untuk-modal-nikah-pikirkan-ini-dulu",
+            "title": "Sebelum Buat Tabungan Bareng Pacar untuk Modal Nikah, Pikirkan Ini Dulu"
+        }, {
+            "url": "https://www.cermati.com/artikel/waduh-rekening-dibobol-kembali-marak-begini-6-cara-jaga-kode-otp",
+            "title": "Waduh, Rekening Dibobol Kembali Marak. Begini 6 Cara Jaga Kode OTP"
+        }, {
+            "url": "https://www.cermati.com/artikel/dear-anak-muda-hindari-4-gaya-hidup-berikut-agar-gaji-tetap-aman",
+            "title": "Dear Anak Muda, Hindari 4 Gaya Hidup Berikut Agar Gaji Tetap Aman!"
+        }, {
+            "url": "https://www.cermati.com/artikel/4-penyebab-ini-bikin-sulit-mengelola-keuangan",
+            "title": "4 Penyebab Ini Bikin Sulit Mengelola Keuangan"
+        }]
+    }, {
         "url": "https://www.cermati.com/artikel/jualan-makin-laris-mau-begini-5-tips-menyusun-rencana-bisnis-kuliner",
         "title": "Jualan Makin Laris, Mau? Begini 5 Tips Menyusun Rencana Bisnis Kuliner",
         "author": "Aufi Ramadhania Pasha",
+        "category": "Tips Bisnis",
         "postingDate": "8 Oktober 2020",
-        "relatedArticles": [{
-            "url": "https://www.cermati.com/artikel/mau-pemasukan-tambahan-dengan-jualan-pulsa-begini-5-tips-biar-untung",
-            "title": "Mau Pemasukan Tambahan dengan Jualan Pulsa? Begini 5 Tips Biar Untung"
-        }, {
-            "url": "https://www.cermati.com/artikel/pengusaha-wajib-tahu-pola-pikir-seperti-ini-paling-dibenci-investor",
-            "title": "Pengusaha Wajib Tahu, Pola Pikir Seperti Ini Paling Dibenci Investor"
-        }, {
-            "url": "https://www.cermati.com/artikel/6-tips-sukses-membangun-usaha-frozen-food-dari-nol-yuk-dicoba",
-            "title": "6 Tips Sukses Membangun Usaha Frozen Food dari Nol. Yuk, Dicoba!"
-        }, {
-            "url": "https://www.cermati.com/artikel/faktor-faktor-yang-berpengaruh-pada-efektivitas-iklan-internet",
-            "title": "Faktor-Faktor yang Berpengaruh pada Efektivitas Iklan Internet"
-        }, {
-            "url": "https://www.cermati.com/artikel/7-cara-jitu-agar-bisnis-startup-bertahan-di-tengah-pandemi-dan-resesi",
-            "title": "7 Cara Jitu agar Bisnis Startup Bertahan di Tengah Pandemi dan Resesi"
-        }]
+        "relatedArticles": []
     }]
 }

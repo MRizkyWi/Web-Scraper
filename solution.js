@@ -37,6 +37,9 @@ rp(url)
                     // article author
                     var author = $('span.author-name').text().trim()
 
+                    // article category
+                    var category = $('div.post-category>a').text().trim()
+
                     // article posting date
                     var date = $('span.post-date').find('span').text().trim()
 
@@ -58,6 +61,7 @@ rp(url)
                         "url": element,
                         "title": title,
                         "author": author,
+                        "category": category,
                         "postingDate": date,
                         "relatedArticles": relatedArticles
                     }
