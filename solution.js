@@ -49,9 +49,13 @@ rp(url)
                         var backlink = $(relArt).find('a').attr('href')
                         var fulllink = cermati.concat(backlink)
                         var titleArticle = $(relArt).find('h5').text().trim()
+                        var relArtCategory = $(relArt).find('span.item-category').text().trim()
+                        var relArtDate = $(relArt).find('span.item-publish-date').text().trim()
                         var relatedArticle = {
                             "url": fulllink,
                             "title": titleArticle,
+                            "category": relArtCategory,
+                            "date": relArtDate.replace('•\n                      ',''),
                         }
                         relatedArticles.push(relatedArticle)
                     })
