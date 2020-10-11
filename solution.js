@@ -11,8 +11,8 @@ const cermati = 'https://www.cermati.com'
 
 var list = []
 var listArticles = []
-// var list2 = []
 var listNewestArticles = []
+var listPopularArticles = []
 
 rp(url)
 .then(function(html){
@@ -40,6 +40,19 @@ rp(url)
             "date": newArtDate.replace('•\n                      ',''),
         }
         listNewestArticles.push(newestArticle)
+    })
+
+    $('h4:contains("Artikel Populer")').next().find('li').map((i, popArt) => {
+        var backlink = $(popArt).find('a').attr('href')
+        var fulllink = cermati.concat(backlink)
+        var titleArticle = $(popArt).find('h5').text().trim()
+        var popArtViewed = $(popArt).find('span.item-view-counter').text().trim()
+        var popularArticle = {
+            "url": fulllink,
+            "title": titleArticle,
+            "viewed": popArtViewed.split(' ')[1] + ' times',
+        }
+        listPopularArticles.push(popularArticle)
     })
     
     // get all detail for each article
@@ -100,7 +113,8 @@ rp(url)
                 var articles = {
                     "articles": {
                         "main": listArticles,
-                        "newest_articles": listNewestArticles,
+                        "newest": listNewestArticles,
+                        "popular": listPopularArticles,
                     },
                 }
                 var jsonArticle = JSON.stringify(articles);
